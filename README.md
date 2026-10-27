@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Soniox is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://soniox.com/
+Soniox provides a multilingual speech AI platform offering real‑time speech‑to‑text, text‑to‑speech and translation APIs in over 60 languages. The service emphasizes low‑latency streaming, high accuracy with native‑speaker models, and seamless language switching for live voice applications, targeting developers building voice‑enabled products.
+
+**Areas:** Speech AI · Multilingual · Real-time · Streaming · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://soniox.com/)
+- [Documentation](https://docs.soniox.com/)
+- [Getting started](https://soniox.com/docs/stt/get-started)
+- [API reference](https://soniox.com/docs/api-reference)
+- [Pricing](https://soniox.com/pricing)
+- [Sign up](https://console.soniox.com/signup)
+- [Support](https://app.soniox.com/help-center)
+- [Blog](https://soniox.com/blog)
+- [Terms of service](https://soniox.com/policies/terms-of-service)
+- [Privacy policy](https://soniox.com/policies/privacy-policy)
+- [GitHub](https://github.com/soniox)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/soniox/](https://apis.io/providers/soniox/).
